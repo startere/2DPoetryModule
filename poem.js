@@ -51,7 +51,7 @@ execute("div", "desert bodies", 13000)
 
 execute("div", "whirl", 15000)
 
-execute("div", "whirl", 17000)
+execute("div", "                           alone", 17000)
 
 execute("div", "seeking", 20000)
 
@@ -129,6 +129,6 @@ execute("div", "what did i have to remember", 60000, "change", 7)
 
 execute(60000, "remove", [8, 9, 10])
 
-execute("div", "what is that sound", 68000, "change", 8)
+execute("div", "        what is that sound", 68000, "change", 8)
 
 execute("div", "does anyone else hear?", 76000, "change", 9)
