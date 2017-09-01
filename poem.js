@@ -51,7 +51,7 @@ execute("div", "desert bodies", 13000)
 
 execute("div", "whirl", 15000)
 
-execute("div", "                           alone", 17000)
+execute("pre", "                           alone", 17000)
 
 execute("div", "seeking", 20000)
 
